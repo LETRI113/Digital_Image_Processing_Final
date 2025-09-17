@@ -4,7 +4,7 @@ Final project for Digital Image Processing. Detect and classify traffic signs fr
 ## 📂 Project Structure  
 ## Input and Output
 
-https://drive.google.com/file/d/1BW34ZJEQjqF581XC4iZYf6FH_VMz5_v5/view?usp=drive_link
+https://drive.google.com/drive/folders/1GXl_1ilTnlSCmLjNeeRJBklsoHMU3Mf1?usp=sharing
 
 📌 Objective
 
