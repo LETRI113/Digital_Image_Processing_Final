@@ -15,6 +15,7 @@ Apply image processing techniques with OpenCV (HSV color filtering, contour dete
 Test the system on real video samples.
 
 ✅ Results
+....
 
 The program successfully detects and classifies common traffic signs, such as:
 
